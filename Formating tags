@@ -1,0 +1,13 @@
+<body>
+    <!-- Let's try various heading and tags -->
+     <b>Welcome to codingal... Let's get started with coding </b> <br>
+     <strong> Welcome to codingal... let's get started with coding </strong> <br>
+     <i> Welcome to codingal... let's get started with coding </i> <br>
+     <em> Welcome to codingal... let's get started with coding </em> <br>
+     <mark> Welcome to codingal let's get started with coding </mark> <br>
+     <small> Welcome to codingal... let's get started with coding </small> <br>
+     <del> Welcome to codingal... let's get started with coding </del> <br>
+      Welcome to <sup>Codingal</sup>. Let's get started with <sub>coding</sub><br>
+
+</body>
+</html>
